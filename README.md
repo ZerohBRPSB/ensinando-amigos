@@ -11,7 +11,7 @@ Por exemplo, vou fazer um programa que mostre para o usuário informações sobr
 
 Um jeito "errado" de fazer isso seria:
 
-![image](https://imgur.com/a/p59FDJr)
+![image](primeiraFoto.png)
 
 Mas, e caso eu tivesse 100 carros? Teria que fazer isso para TODOS os 100 carros??
 
@@ -25,7 +25,7 @@ Colocamos um nome a classe, e lembrando que a primeira letra é maiúscula por p
  
 Um exemplo de classe, é a seguinte:
 
-![image](https://imgur.com/a/FFMWM06)
+![image](segundaFoto.png)
 
 Neste caso, criei um **classe pública** do tipo **void** (que não possui retorno; ou seja, não poderia usar: return ), e nela inseri alguns atributos, como ID, Cor e Motor
 Percebe-se que utilizei a **letra maiúscula** no nome da classe e nos atributos, isso foi definido por convenção
@@ -34,7 +34,7 @@ OK! Classe criada, mas ainda não mostrei os valores para o usuário, apenas sim
 
 Então, o código do formulário da web ficaria próximo disso:
 
-![image](https://imgur.com/a/bwSK4xq)
+![image](terceiraFoto.png)
 
 Já parece algo mais "profissional" nosso código né?
 O **$** antes das " " no *Response.Write* é para nós realizar a formatação do texto para inserir variáveis com mais facilidade.
